@@ -1,0 +1,198 @@
+/* Header */
+header{
+    background-color: #f5f5f5;
+}
+.topbar .topbar_left li{
+    font-size: 14px;
+    display: inline-block;
+    padding-top: 10px;
+}
+.topbar .topbar_left li a{
+    font-size: 14px;
+    font-weight: 600;
+    color: #cc9966;
+    text-decoration: none;
+    margin-left: 3px;    
+}
+.topbar .topbar_right{
+    text-align: right;
+}
+.topbar .topbar_right li{
+    font-size: 14px;
+    display: inline-block;
+    padding-top: 10px;
+}
+.topbar .topbar_right li a{
+    font-size: 14px;
+    font-weight: 600;
+    color: #cc9966;
+    text-decoration: none;
+    margin-left: 20px;    
+}
+.topbar .topbar_right .dropdown-menu{
+    text-align: left;
+}
+.midbar .header_search{
+    margin: 14px 0 5px 0;
+    position: relative;
+}
+.navbar{
+    background-color: #cc9966;
+}
+.navbar .collapse .nav li a{
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+
+}
+.navbar .collapse .nav li a:hover{
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    background-color: #cc9966;
+}
+/*--BODY--*/
+.poly-sheet{
+    box-shadow:0 0 1px lightgray;
+    border-radius:5px;
+    padding:5px;
+    position:relative;
+    top:-10px;
+}
+.poly-sheet article .container-fluid .carousel-inner img{
+    margin: 0 auto;
+    height: 300px;
+}
+/*--ASIDE BOX--*/
+
+.poly-cart{
+	margin-top: 5px;
+}
+
+.poly-cart ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    font-variant: small-caps;
+}
+
+.panel-heading strong{
+	font-variant: small-caps;
+	font-size: larger;
+	text-shadow:0 0 2px darkgray;
+}
+/*  tỉ lệ hình */
+
+.carousel-inner img{
+    margin: 0 auto;
+    height: 300px;
+    max-width: 95%;
+}
+
+.midbar .navbar-left{
+    position: relative;    
+}
+.midbar .navbar-left .hotline{
+    position: absolute;
+    top: 15px;
+    left: 10px;
+}
+.midbar .navbar-left .content_hotline{
+    position: absolute;
+    margin-left: 30px;
+    color: #cc9966;
+    font-weight: lighter;
+    font-size: 13px;
+    top: 5px;
+    line-height: 17px;
+}
+.midbar .navbar-left .content_hotline a{
+    color: #cc9966;
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: none;
+    line-height: 17px;
+}
+
+.midbar .navbar-right{
+    position: relative;
+    margin-right: 2px;
+    width: 170px;
+    height: 50px;
+}
+.midbar .navbar-right .hotline{
+    position: absolute;
+    top: 15px;
+}
+.midbar .navbar-right .content_hotline{
+    position: absolute;
+    margin-left: 25px;
+    color: #cc9966;
+    font-weight: lighter;
+    font-size: 13px;
+    top: 5px;
+    line-height: 17px;
+}
+.midbar .navbar-right .content_hotline a{
+    color: #cc9966;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 17px;
+}
+.title_menu{
+    border-bottom:1px solid #cc9966;
+    margin-bottom: 10px;
+}
+.title_menu .panel-heading{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    width: 180px;
+    background-color: #db7005;
+}
+.collapse .nav .dropdown .dropdown-menu a{
+    color: black;
+    font-weight: lighter;
+    text-align: justify;    
+    font-size: 15px;
+}
+nav .navbar .collapse .dropdown .dropdown-menu{
+    background-color: #cc9966;
+}
+nav .navbar .collapse .dropdown .dropdown-menu li a{
+    color: white;
+    font-weight: lighter;
+    text-align: justify;    
+    font-size: 16px;
+    
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus{
+    background-color: #cc9966;
+    color: white;
+    font-weight: bold;
+}
+nav .navbar .collapse .dropdown .dropdown-menu a:hover{
+    color: rgb(225, 222, 222);    
+    background-color:#cc9966;
+    font-weight: lighter;
+}
+
+/* BOdy */
+.title-head a {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #363636;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.content-page,p,li{
+    margin-bottom:11px;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:12pt;
+    line-height:30px;
+}
